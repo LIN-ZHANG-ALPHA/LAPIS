@@ -1,0 +1,14 @@
+
+This toolbox provides a periodicity estimation algorithm developed in the paper:
+
+Learning period from incomplete multivariate time series. 
+Lin Zhang, Alexander Gorovits, Wenyu Zhang, Petko Bogdanov.
+
+To execute, run the demo.m file.
+     
+	 
+     
+If you are using our code for your research please cite:
+"Learning period from incomplete multivariate time series.", 
+Lin Zhang, Alexander Gorovits, Wenyu Zhang, Petko Bogdanov. IEEE International Conference on Data Mining (ICDM), 2020.
+
